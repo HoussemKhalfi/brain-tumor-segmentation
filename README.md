@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation using MRI Data
+# Unsupervised Brain Tumor Segmentation Using K-means Clustering Algorithm
 
 This repository contains code and notebooks to explore, detect, and segment brain tumors using MRI data. The segmentation is focused on distinguishing key tumor subregions: edema, enhancing tumor, and necrosis. The main techniques employed are thresholding and K-Means clustering.
 
@@ -38,7 +38,7 @@ In this project, we'll proceed with the Google Drive option since we are working
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/brain_tumor_segmentation.git
+   git clone https://github.com/HoussemKhalfi/brain-tumor-segmentation.git
    cd brain_tumor_segmentation
    ```
 
